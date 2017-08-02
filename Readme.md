@@ -1,5 +1,8 @@
-Support Vector Machines
-![alt text](https://github.com/devasood/svm/blob/master/RBF%20SVM.png)
+![SVM Radial Basis Function RBF](https://github.com/devasood/svm/blob/master/RBF%20SVM.png)
+
+<br>
+<h2>Variation with C and Gamma</h2>
+<br>
 
 ![SVM variations with C and Gamma](https://github.com/devasood/svm/blob/master/EffectOfGammaAndC.png)
 

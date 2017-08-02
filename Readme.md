@@ -8,6 +8,7 @@
 
 <h3>For Python</h3>
 Install the required libraries using Pip such as 
+
 ```
 pip install sklearn
 pip install pandas
@@ -17,6 +18,7 @@ The Interactive Python notebooks can be opened using tools like Jupyter Notebook
 <h3>For R:</h3>
 Install the required libraries using install.packages or RStudio<br>
 Run the files using 
+
 ```
 R -f <filename>
 ``` 

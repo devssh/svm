@@ -112,7 +112,7 @@ def plot_class_regions_for_classifier(clf, X, y, X_test=None, y_test=None, title
 
     P = clf.predict(numpy.c_[x2.ravel(), y2.ravel()])
     P = P.reshape(x2.shape)
-    fig = plt.figure()
+    fig=plt.figure(dpi=100)
     if plot_decision_regions:
         plt.contourf(x2, y2, P, cmap=cmap_light, alpha = 0.8)
 
@@ -135,7 +135,6 @@ def plot_class_regions_for_classifier(clf, X, y, X_test=None, y_test=None, title
 
     if (title is not None):
         plt.title(title)
-    
     plt.show()
-    #fig.savefig("RBF")
+    #fig.savefig("RBF.svg", format="svg")
 

@@ -6,6 +6,7 @@ Install the required libraries using Pip such as
 ```
 pip install sklearn
 pip install pandas
+pip install numpy
 ```
 
 

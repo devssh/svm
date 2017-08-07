@@ -24,11 +24,11 @@ Run in RStudio
 
 <h2>RBF SVM</h2>
 
-![SVM Radial Basis Function RBF](https://github.com/devasood/svm/blob/master/RBF%20SVM.svg)
+![SVM Radial Basis Function RBF](https://cdn.rawgit.com/devssh/svm/022af90c/RBF.svg)
 
 <h2>Variation with C and Gamma</h2>
 
-![SVM variations with C and Gamma](https://github.com/devssh/svm/blob/master/EffectOfGammaAndC.svg)
+![SVM variations with C and Gamma](https://cdn.rawgit.com/devssh/svm/022af90c/EffectOfGammaAndC.svg)
 
 
 

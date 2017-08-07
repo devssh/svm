@@ -32,7 +32,7 @@ Run in RStudio
 
 ![SVM variations with C and Gamma](https://cdn.rawgit.com/devssh/svm/022af90c/EffectOfGammaAndC.svg)
 
-<h2>Tuning the SVM for Purpose</h2>
+<h2>Tuning a linear SVM for Purpose</h2>
 
 ![SVC Types](https://cdn.rawgit.com/devssh/svm/04014479/SVC%20Types.svg)
 

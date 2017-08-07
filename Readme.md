@@ -1,4 +1,4 @@
-The Interactive Python notebooks can be opened using tools like Jupyter Notebooks
+The Interactive Python notebooks can be opened using tools like <a href="http://jupyter.org/">Jupyter Notebooks</a>
 
 <h3>For Python3</h3>
 Install the required libraries using Pip such as 

@@ -31,24 +31,29 @@ Run in RStudio
 ![SVM variations with C and Gamma](https://cdn.rawgit.com/devssh/svm/022af90c/EffectOfGammaAndC.svg)
 
 <h2>Tuning the SVM for Purpose</h2>
-![SVC Types](https://github.com/devssh/svm/blob/master/SVC%20Types.svg)
 
+![SVC Types](https://cdn.rawgit.com/devssh/svm/04014479/SVC%20Types.svg)
 
 <h2>Running algorithms to find the best parameters</h2>
+
 ![Grid Search](https://github.com/devssh/svm/blob/master/GridSearchResults.png)
 
 
 <h2>Mushroom dataset</h2>
+
 ![Grid Search](https://github.com/devssh/svm/blob/master/Mushroom%20dataset.png)
 
 <h2>Principle Component Analysis</h2>
+
 ![Plot the data](https://github.com/devssh/svm/blob/master/Principle%20Component%20Analysis.svg)
 
 <h2>True Positive Rate vs False Positive Rate on Credit Card data</h2>
+
 ![TPR FPR](https://cdn.rawgit.com/devssh/svm/ae81ffd4/TPR-FPR%20Curve.svg)
 
 
 <h2>Precision Recall on Credit Card data</h2>
+
 ![Precision Recall](https://cdn.rawgit.com/devssh/svm/ae81ffd4/PrecisionRecallCurve.svg)
 
 

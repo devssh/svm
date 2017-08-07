@@ -39,18 +39,17 @@ Run in RStudio
 ![Grid Search](https://github.com/devssh/svm/blob/master/GridSearchResults.png)
 
 
-<h2>Mushroom dataset</h2>
-
 ![Grid Search](https://github.com/devssh/svm/blob/master/Mushroom%20dataset.png)
 
 <h2>Principle Component Analysis</h2>
 
-![Plot the data](https://github.com/devssh/svm/blob/master/Principle%20Component%20Analysis.svg)
+![Plot the data](https://cdn.rawgit.com/devssh/svm/65703b62/Principle%20Component%20Analysis.svg)
+
+![Kaggle Credit Card Fraud](https://github.com/devssh/svm/blob/master/Credit%20card.png)
 
 <h2>True Positive Rate vs False Positive Rate on Credit Card data</h2>
 
 ![TPR FPR](https://cdn.rawgit.com/devssh/svm/ae81ffd4/TPR-FPR%20Curve.svg)
-
 
 <h2>Precision Recall on Credit Card data</h2>
 
@@ -61,4 +60,6 @@ Run in RStudio
 <h3>1. Dummy data and practise from Coursera - Machine Learning - University of Michigan</h3>
 <h3>2. Kaggle datasets and competitions</h3>
 
-<h3> Fork this on Github to make changes!</h3>
+
+<hr>
+<h5> Fork this on Github to make changes!</h5>
